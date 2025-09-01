@@ -1,0 +1,2 @@
+# satya
+git practice purpose
